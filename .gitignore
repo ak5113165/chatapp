@@ -25,8 +25,8 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-#in our .gitignore file 
-.env
+# local env files
+.env*.local
 
 
 # vercel
